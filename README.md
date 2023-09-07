@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Ricardo Valdes from United State<br><br>- 🔭 I’m working as Lead Developer<br>- 📚 I'm currently learning Solidity<br>-</p>
+<p align="left">I'm Ricardo Valdes from United States<br><br>- 🔭 I’m working as Lead Developer<br>- 📚 I'm currently learning Solidity<br>-</p>
 
 ###
 
